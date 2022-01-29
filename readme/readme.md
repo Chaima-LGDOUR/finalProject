@@ -60,7 +60,7 @@ The goal of Tetris is to score as many points as possible by clearing horizontal
 
 <br>
 
-<img align="center" width="210" height="220" src="qst.PNG">
+<img align="center" width="210" height="220" src="qst.png">
 
 <br>
 
